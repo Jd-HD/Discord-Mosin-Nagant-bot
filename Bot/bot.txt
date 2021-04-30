@@ -1,0 +1,4 @@
+Please read the readme file before going any further.
+
+Here's the bot link.
+https://discord.com/oauth2/authorize?client_id=835423639406116925&scope=bot&permissions=8
